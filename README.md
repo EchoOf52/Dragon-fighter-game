@@ -37,3 +37,5 @@ cd dragon-slayer-rpg
 3.Open index.html in your browser.
 
 ---
+
+## live Demo -- https://echoof52.github.io/Dragon-fighter-game/
