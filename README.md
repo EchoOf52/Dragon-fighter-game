@@ -14,6 +14,10 @@ In *Dragon Fighter RPG*, you are a brave hero on a mission to slay the evil drag
 
 ---
 
+## live Demo -- https://echoof52.github.io/Dragon-fighter-game/
+
+---
+
 ## 🛠️ Technologies Used
 
 - **HTML5** – structure of the game interface
@@ -37,5 +41,3 @@ cd dragon-slayer-rpg
 3.Open index.html in your browser.
 
 ---
-
-## live Demo -- https://echoof52.github.io/Dragon-fighter-game/
