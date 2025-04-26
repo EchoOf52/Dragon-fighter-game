@@ -37,23 +37,3 @@ cd dragon-slayer-rpg
 3.Open index.html in your browser.
 
 ---
-
-📸 Screenshots
-![Screenshot 2025-04-26 182827](https://github.com/user-attachments/assets/d6d261ac-df3f-4d8c-abde-ea6a5c4f4acb)
-
----
-
-💡 Future Improvements
-Add different enemy types and difficulty levels
-
-Improve UI/UX with animations and effects
-
-Implement character classes or skill trees
-
-Save progress with localStorage or a backend
-
----
-
-🧙 About the Author
-Created by Shivam Sharma as a fun project to explore game development in the browser. Feel free to contribute or fork it for your own version!
-
